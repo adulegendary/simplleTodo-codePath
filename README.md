@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='codpePath.gif' title='Video codePath' width='' alt='Video codePath' />
+<img src='codPath.gif' title='Video codePath' width='' alt='Video codePath' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
